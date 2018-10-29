@@ -1,0 +1,3 @@
+class{
+	pravite String name;
+}
