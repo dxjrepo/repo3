@@ -1,3 +1,3 @@
 class{
-	pravite String name;
+	private String name;
 }
